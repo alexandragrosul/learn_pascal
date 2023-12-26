@@ -1,4 +1,6 @@
-program Hello;
+program B;
 begin
-    write 'Hello'
-end;
+  writeln ('Vasea');
+  writeln ('    Posol');
+  writeln ('        Guleati');
+end.
